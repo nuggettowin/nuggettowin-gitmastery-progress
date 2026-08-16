@@ -1,55 +1,10 @@
 [
   {
-    "exercise_name": "remote-control",
-    "started_at": 1786885696.337082,
-    "completed_at": 1786885711.559787,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786696542.579272,
+    "completed_at": 1786696544.641193,
     "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786885736.227037,
-    "completed_at": 1786885744.926894,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786885836.305785,
-    "completed_at": 1786885902.383283,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786885916.394944,
-    "completed_at": 1786885923.478615,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786886269.947654,
-    "completed_at": 1786886271.574464,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786887692.122252,
-    "completed_at": 1786887703.029484,
-    "comments": [
-      "Great work pushing changes to the remote!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
   },
@@ -127,6 +82,103 @@
     "completed_at": 1786894103.159815,
     "comments": [
       "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786886269.947654,
+    "completed_at": 1786886271.574464,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786697760.425712,
+    "completed_at": 1786697762.211728,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786887692.122252,
+    "completed_at": 1786887703.029484,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786885696.337082,
+    "completed_at": 1786885711.559787,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786885736.227037,
+    "completed_at": 1786885744.926894,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786885836.305785,
+    "completed_at": 1786885902.383283,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786885916.394944,
+    "completed_at": 1786885923.478615,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786696161.560213,
+    "completed_at": 1786696163.228619,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786696976.454354,
+    "completed_at": 1786696978.099428,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786695153.928582,
+    "completed_at": 1786695155.72696,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786695365.93884,
+    "completed_at": 1786695367.777865,
+    "comments": [
+      "You have successfully undone the init operation!"
     ],
     "status": "Completed"
   }
